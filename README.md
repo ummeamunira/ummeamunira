@@ -108,6 +108,7 @@ Languages            Python (primary) · PySpark · SQL · DAX · M (Power Query
 ## Certifications & Education
 
 - 🎓 **MSc Chemical Engineering** — University of Alberta
+- 🎓 **Micromasters in Supply Chain** — MIT (Edx)
 - 📜 **CSPO** — Certified Scrum Product Owner
 - 📜 **PMP** — In Progress
 - 📜 **DP-100** — Microsoft Azure Data Scientist Associate (2023)
@@ -115,19 +116,10 @@ Languages            Python (primary) · PySpark · SQL · DAX · M (Power Query
 
 ---
 
-## Currently
-
-- 🔭 Building a medallion lakehouse on **Microsoft Fabric** for gas distribution analytics
-- 📚 Preparing for **Databricks Certified Data Engineer Associate** exam
-- 🌱 Developing expertise in **GenAI pipelines** and **agentic AI** for energy domain applications
-- 🎯 Targeting **AI Solutions Architect** roles in the energy and utilities sector
-
----
-
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umme%20Munira-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umme%20Munira-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/uamunira)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:ummeamunira@gmail.com)
 
 ---
 
