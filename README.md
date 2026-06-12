@@ -35,8 +35,8 @@ Multi-signal trading analytics system for electricity futures contract purchasin
 
 ---
 
-### 🔋 Energy Demand & UFG Anomaly Detection Pipeline
-End-to-end anomaly detection system for Unaccounted-For Gas (UFG) — a residual derived from metered send-out minus customer consumption. Built to distinguish genuine demand anomalies from data pipeline failures and billing cycle artifacts. Rolling z-score model tuned for noisy residuals across heterogeneous customer segments. Medallion architecture (Bronze → Silver → Gold) with Python pre-scoring surfaced through Power BI for near real-time operational flagging.
+### 🔋 Energy Demand & Anomaly Detection Pipeline
+End-to-end anomaly detection system for process flow — a residual derived from metered send-out minus customer consumption. Built to distinguish genuine demand anomalies from data pipeline failures and billing cycle artifacts. Rolling z-score model tuned for noisy residuals across heterogeneous customer segments. Medallion architecture (Bronze → Silver → Gold) with Python pre-scoring surfaced through Power BI for near real-time operational flagging.
 
 **Stack:** Python · PySpark · Azure Databricks · Microsoft Fabric · Power BI · Delta Lake
 
@@ -131,4 +131,4 @@ Languages            Python (primary) · PySpark · SQL · DAX · M (Power Query
 
 ---
 
-*Calgary, AB · Open to Houston, TX opportunities*
+*Calgary, AB*
